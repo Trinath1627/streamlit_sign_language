@@ -6,21 +6,9 @@
 # pillow
 # streamlit
 
-#streamlit==1.28.0
-#numpy==1.26.0
-#opencv-python==4.8.1.78
-#tensorflow==2.14.0  # or keras if you prefer standalone Keras
-#cvzone==1.5.6
-#pillow==10.0.1
-
-streamlit
-numpy
-opencv-python
-tensorflow
-cvzone
-pillow
-#opencv-contrib-python
-libgl1-mesa-glx
-libglib2.0-0
-
-
+streamlit==1.26.0
+numpy==1.23.5
+opencv-python==4.7.0.72
+keras==2.12.0
+cvzone==1.5.6
+Pillow==9.5.0
