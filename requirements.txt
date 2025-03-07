@@ -19,7 +19,7 @@ opencv-python
 tensorflow
 cvzone
 pillow
-opencv-contrib-python
+#opencv-contrib-python
 libgl1-mesa-glx
 libglib2.0-0
 
